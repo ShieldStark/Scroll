@@ -40,6 +40,7 @@ public class AppAdapter extends RecyclerView.Adapter<AppAdapter.MyViewHolder> {
         holder.appId.setText(mData.get(position).getAppId());
         holder.appName.setText(mData.get(position).getAppName());
         holder.appVersion.setText(mData.get(position).getAppVersion());
+        holder.count.setText(""+(position+1));
     }
 
     @Override
