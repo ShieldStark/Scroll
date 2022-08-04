@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         appList=new ArrayList<>();
 
-            appList.add(new Card("1","A","AA"));
+            appList.add(new Card("1hsgjsagdusgdusdhsdusagyfegfyajdgshdgyfgshfshdysdshsafjhvhcvdhgfsadsajdahfdgfgsjdhsjdhahfgdhfgdhdhjsdjakdhgfhdfbvjhsadjhidwiqhd","A","AA"));
             appList.add(new Card("2","B","BB"));
             appList.add(new Card("3","C","CC"));
             appList.add(new Card("4","D","DD"));
